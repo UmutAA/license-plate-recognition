@@ -37,5 +37,5 @@ A robust Python-based system designed to detect and recognize vehicle license pl
    ```
 4. **Run the Application:**
    ```bash
-   python main.py
+   python cca.py
    ```
