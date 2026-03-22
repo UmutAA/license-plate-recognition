@@ -21,6 +21,7 @@ A robust Python-based system designed to detect and recognize vehicle license pl
    cd license-plate-recognition
    ```
 2. **Activate Virtual Environment:**
+
    Windows:
    ```bash
    cd lpr\Scripts\activate
