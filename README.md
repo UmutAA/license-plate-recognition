@@ -17,7 +17,7 @@ A robust Python-based system designed to detect and recognize vehicle license pl
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/UmutAA/license-plate-recognition.git](https://github.com/UmutAA/license-plate-recognition.git)
+   git clone https://github.com/UmutAA/license-plate-recognition.git
    cd license-plate-recognition
    ```
 2. **Activate Virtual Environment:**
