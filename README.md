@@ -13,16 +13,12 @@ A robust Python-based system designed to detect and recognize vehicle license pl
 * **Matplotlib:** Visualization of results.
 * **Scikit Image:** For image processes
 
-## Demo Results
-> [Insert a screenshot or a GIF of your project in action here!]
-> Example: `![Result](./output_example.png)`
-
 ##  Installation & Usage
 
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/UmutAA/license-plate-recognition.git](https://github.com/UmutAA/license-plate-recognition.git)
-   cd your-repo-name
+   cd license-plate-recognition
    ```
 2. **Activate Virtual Environment:**
    Windows:
